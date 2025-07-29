@@ -1,0 +1,6 @@
+{
+  "name": "Optical Job Tracker",
+  "description": "A web application for optical stores to track prescription job orders between branches and a central laboratory. Branches can create new jobs, and the laboratory can update the status as the work progresses, providing a clear workflow for everyone.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
